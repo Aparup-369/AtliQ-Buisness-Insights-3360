@@ -45,28 +45,35 @@ This project aims to clarify the purpose and goals of the data analytics initiat
 **Overall Report**
 
 Home Page of the Dashboard
-![h](![pbi-home](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/91465a38-a43c-4dfb-b071-dd4dbd628a91)
-)
+![pbi-home](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/f91e17af-429e-4273-a5d6-7cc337bd9b13)
+
 
 Finance View
-![f]([https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0825e7c3-3090-423e-9470-12d81a2e371e](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/blob/main/pbi-home.png))
+![pbi-finance](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/57a26cf8-f979-4583-95b5-3048f8243a5d)
+
 
 Sales View
-![s](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/e59ddda7-8d39-4f7c-8076-9c21885c4c3e)
+![pbi-sales](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/ef96c2bb-42df-4bee-bd28-500942625138)
+
 
 Marketing View
-![m](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0ffcf851-b993-46a3-8931-4424b3b2c014)
+![pbi-marketing](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/226a6fe2-230a-4225-a4c4-e5ee188ce54d)
+
 
 Supply Chain View
-![sp](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/7328cfef-d6a6-4ffe-bc0a-12c75cdfe870)
+![pbi-supplychain](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/a569ee9e-999c-4a6d-bfd5-27e194774ef9)
+
 
 Executive View
-![e](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/205ea814-11a1-4ead-8121-e9cf81592728)
+![Executive](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/193dcbec-49f5-4b33-a924-6421927b13ec)
+
 
 Info Page
-![i](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/b75569d5-1d29-4373-9d20-a80638081dbd)
+![pbi-info](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/e75fdf67-b260-4c7a-a948-7213f716ee87)
+
 
 Support Page
-![sprt](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/897e23dc-3467-4f5d-b10f-98c09fbaa69b)
+![pbi-support](https://github.com/Aparup-369/AtliQ-Buisness-Insights-3360/assets/162915213/efacb7d4-ad19-4ff2-8c01-5a224ef68fde)
+
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
